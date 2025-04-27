@@ -80,8 +80,8 @@ Demo & Deliverables
 
 Demo Video Link:https://youtu.be/62a1ThjeXg0?si=xcD90ZIWz48t9Ovr
 
-Pitch Deck / PPT Link: [Paste Google Slides / PDF link here]
-
+PPT Link:
+https://in.docworkspace.com/d/sIF2C54jNAeeAusAG
 
 ✅ Tasks & Bonus Checklist
 
