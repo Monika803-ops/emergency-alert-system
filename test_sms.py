@@ -1,0 +1,3 @@
+from emergency_alert import send_emergency_alert
+
+send_emergency_alert()
